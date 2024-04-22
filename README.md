@@ -1,7 +1,7 @@
 ## Configuração do VSCODE
 Minhas configurações do arquivo settings.json do vscode
 
-````
+``
 {
     "workbench.colorTheme": "Min Dark",
     "vsicons.dontShowNewVersionMessage": true,
@@ -35,4 +35,4 @@ Minhas configurações do arquivo settings.json do vscode
     "editor.scrollbar.vertical": "hidden",
     "files.autoSave": "afterDelay"
 }
-```
+``
